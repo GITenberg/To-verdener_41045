@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40952
     wikipedia: http://da.wikipedia.org/wiki/Knud_Hjort%C3%B8
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41045#To-verdener
 gutenberg_issued: '2012-10-13'
 gutenberg_type: Text
 identifiers:
